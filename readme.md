@@ -21,4 +21,4 @@ The current top five are:
 ## 🚀 Live Demo
 
 You can access the live version of this project here:
-* **Production Deployment** [View Live App](https://vercel.app) (Hosted on Vercel)
+* **Production Deployment** [View Live App](https://top-5-bakery.vercel.app/) (Hosted on Vercel)
